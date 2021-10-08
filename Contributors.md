@@ -1,6 +1,7 @@
 ﻿# Contributors
- 
+
 - [Abhishek Gautam](https://github.com/gautamabhishek1)
+- [Tsheten Sherpa](https://github.com/rinzee)
 - [aiden](https://github.com/acdlbs)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
 - [AminooZ](https://github.com/AminooZ)
